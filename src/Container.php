@@ -2,12 +2,10 @@
 
 namespace DIServer\Container;
 
-use DIServer\Interfaces\IContainer;
-
 /**
  * IOC容器类
  */
-class Container implements IContainer
+class Container
 {
 
 	/**
